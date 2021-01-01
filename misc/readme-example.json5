@@ -14,7 +14,7 @@ multi-line string',
     hex: 0xDEADbeef,
     half: .5,
     delta: +10,
-    to: Infinity,   // and beyond!
+    to: 'Infinity',   // and beyond!
 
     finally: 'a trailing comma',
     oh: [
